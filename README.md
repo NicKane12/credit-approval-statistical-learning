@@ -5,15 +5,15 @@
 This project analyzes credit approval data to find a classifcation model that can predict approval with high accuracy. The goal is compare and contrast various models using AUC and accuracy.
 
 ## Methods
--Logistic
--LDA
--QDA
--KNN 
--Classification Tree
--Random Forests
--Boosting
--Ridge
--LASSO
+- Logistic
+- LDA
+- QDA
+- KNN 
+- Classification Tree
+- Random Forests
+- Boosting
+- Ridge
+- LASSO
 
 ## Evaluation
 Models were evaluated using accuracy (correct classification) and AUC using the ROC curve.
