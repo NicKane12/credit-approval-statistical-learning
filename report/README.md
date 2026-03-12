@@ -1,3 +1,3 @@
 # Report
 
-This folder contains the final project report (PDF).
+This folder contains the final project report and slides.
