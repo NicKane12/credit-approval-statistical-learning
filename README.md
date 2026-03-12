@@ -4,5 +4,5 @@ This repository contains an applied statistical learning project that compares m
 
 The goal of the project is to demonstrate:
 - Model comparison and evaluation
-- Data preprocessing and handling class imbalance
+- EDA and Data preprocessing
 - Interpretation and insights from statistical learning models
